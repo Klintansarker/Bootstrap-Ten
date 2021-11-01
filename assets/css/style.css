@@ -1,0 +1,125 @@
+.preloader {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: fixed;
+  z-index: 99999;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 100%;
+  background: #fff;
+}
+#header-section{
+  background-color: #dd0643;
+}
+.navs {
+  font-size: 20px;
+}
+.navbar {
+  background-color: #dd0643;
+  /* border-bottom: 1px solid black; */
+  box-shadow: 0px 1px 15px black;
+}
+.btn {
+  background-color: #dd0643;
+  border: 1px solid #dd0643;
+  box-shadow: 0px 0px 2px 0px black;
+  transition: ease-in-out;
+}
+.btn:hover{
+  /* background-color: #dd0643; */
+  border: 1px solid #dd0643;
+  transform: scaleX(.03s);
+}
+.ks {
+  text-align: center;
+  font-size: 40px;
+}
+.sarker {
+  background-image: url(../imgs/popular-course1.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sarker1 {
+  background-image: url(../imgs/popular-course2.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sarker2 {
+  background-image: url(../imgs/popular-course3.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+.usb {
+  width: 90px;
+  height: 70px;
+  /* height: auto; */
+  margin: 50px auto;
+}
+
+
+#application .card {
+  background-image: url(../imgs/bloclquote-img.png);
+  background-repeat: no-repeat;
+}
+
+
+
+#become {
+  background-image: url(../imgs/instructor.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.inp {
+  width: 60%;
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 30px;
+}
+#become .btn {
+  padding: 15px 50px;
+  margin-top: -5px;
+  margin-left: -82px;
+  border: 2px solid black;
+  border-radius: 30px;
+}
+
+
+#address {
+  background-color: #292662;
+}
+#address  p {
+  font-size: 14px;
+}
+#address  a {
+  color: white;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+@media (min-width: 575px) {
+  #seller > h5 {
+    font-size: 22px;
+  }
+}

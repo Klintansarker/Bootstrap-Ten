@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?hvvjkq');
+  src:  url('fonts/icomoon.eot?hvvjkq#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?hvvjkq') format('truetype'),
+    url('fonts/icomoon.woff?hvvjkq') format('woff'),
+    url('fonts/icomoon.svg?hvvjkq#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-joomla-brands:before {
+  content: "\e900";
+}
+.icon-language-solid:before {
+  content: "\e901";
+}
+.icon-leaf-solid:before {
+  content: "\e902";
+}
+.icon-left-arrow:before {
+  content: "\e903";
+}
+.icon-left-chevron:before {
+  content: "\e904";
+}
+.icon-music-solid:before {
+  content: "\e905";
+}
+.icon-paint-brush-solid:before {
+  content: "\e906";
+}
+.icon-play-solid:before {
+  content: "\e907";
+}
+.icon-plus:before {
+  content: "\e908";
+}
+.icon-right-arrow:before {
+  content: "\e909";
+}
+.icon-right-chevron:before {
+  content: "\e90a";
+}
+.icon-search-solid:before {
+  content: "\e90b";
+}
+.icon-sign-in-alt-solid:before {
+  content: "\e90c";
+}
+.icon-star-half-alt-solid:before {
+  content: "\e90d";
+}
+.icon-star-regular:before {
+  content: "\e90e";
+}
+.icon-star-solid:before {
+  content: "\e90f";
+}
+.icon-user-solid:before {
+  content: "\e910";
+}
+.icon-wordpress-brands:before {
+  content: "\e911";
+}
+.icon-arrow-up-solid:before {
+  content: "\e912";
+}
+.icon-briefcase-solid:before {
+  content: "\e913";
+}
+.icon-calendar-alt-solid:before {
+  content: "\e914";
+}
+.icon-camera-solid:before {
+  content: "\e915";
+}
+.icon-cart-arrow-down-solid:before {
+  content: "\e916";
+}
+.icon-code-solid:before {
+  content: "\e917";
+}
+.icon-comment-dots-regular:before {
+  content: "\e918";
+}
+.icon-desktop-solid:before {
+  content: "\e919";
+}
+.icon-dollar-sign-solid:before {
+  content: "\e91a";
+}
+.icon-heart:before {
+  content: "\e91b";
+}
+.icon-heartbeat-solid:before {
+  content: "\e91c";
+}
+.icon-image-regular:before {
+  content: "\e91d";
+}
